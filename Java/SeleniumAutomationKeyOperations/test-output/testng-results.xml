@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T10:21:30 IST" name="Default suite" finished-at="2024-01-29T10:21:32 IST" duration-ms="2404">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T10:21:30 IST" name="Default test" finished-at="2024-01-29T10:21:32 IST" duration-ms="2404">
+      <class name="indeed.testng.indeed.NewTest">
+        <test-method signature="keyDown()[pri:0, instance:indeed.testng.indeed.NewTest@58bf8650]" started-at="2024-01-29T10:21:30 IST" name="keyDown" finished-at="2024-01-29T10:21:32 IST" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyDown -->
+        <test-method signature="keyUp()[pri:0, instance:indeed.testng.indeed.NewTest@58bf8650]" started-at="2024-01-29T10:21:32 IST" name="keyUp" finished-at="2024-01-29T10:21:32 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyUp -->
+        <test-method signature="sendKeysToActiveElement()[pri:0, instance:indeed.testng.indeed.NewTest@58bf8650]" started-at="2024-01-29T10:21:32 IST" name="sendKeysToActiveElement" finished-at="2024-01-29T10:21:32 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeysToActiveElement -->
+        <test-method signature="sendKeysToDesignatedElement()[pri:0, instance:indeed.testng.indeed.NewTest@58bf8650]" started-at="2024-01-29T10:21:32 IST" name="sendKeysToDesignatedElement" finished-at="2024-01-29T10:21:32 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeysToDesignatedElement -->
+      </class> <!-- indeed.testng.indeed.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
